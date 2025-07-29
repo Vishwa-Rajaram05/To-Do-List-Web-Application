@@ -9,7 +9,6 @@ This project helps users manage daily tasks efficiently with features like add, 
 - Mark tasks as complete/incomplete
 - Edit or delete tasks
 - Persistent data with SQLite
-- Clean and minimal user interface (Bootstrap)
 
 ## 🛠️ Technologies Used
 - Python
